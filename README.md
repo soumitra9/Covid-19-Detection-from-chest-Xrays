@@ -5,5 +5,4 @@ The dataset consist of Normal and covid - 19 affected xray samples. The affected
 https://github.com/ieee8023/covid-chestxray-dataset and the normal xray samples have been drawn from 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-The Project has been done for faciliatting research efforts as a part of CMPSC 465 - Data Struvture and algorithms at Penn State University,
-University Park, PA, U.S.A
+The Project has been done for facilitating research efforts (against Covid - 19) as a part of CMPSC 465 - Data Structure and algorithms Course at Penn State University, University Park, PA, U.S.A
